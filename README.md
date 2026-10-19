@@ -1,2 +1,4 @@
 # CSC-4004-Projects-2026
-Contains all the completed projects in CSC 4004 in the 2026 academic year
+Create a folder with your name and computer number e.g. "Alinani Simukanga (2024123456)".
+Upload your project files (source code) into this folder. 
+Do not tamper with anyone else's files.
